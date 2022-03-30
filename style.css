@@ -1,0 +1,25 @@
+#input{
+    padding: 5px;
+}
+.btn{
+    padding: 5px;
+}
+.list{
+    background-color: rgb(212, 212, 212);
+    display:inline-flex;
+    width: 60%;
+}
+.list div:nth-child(1){
+    padding: 5px;
+}
+.list{
+    justify-content: space-between;
+}
+.class{
+    display: flex;
+    padding: 1%;
+}
+.class div{
+    background-color: rgb(122, 122, 122);
+    padding: 5%;
+}
